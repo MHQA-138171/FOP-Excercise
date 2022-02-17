@@ -31,3 +31,4 @@ int main()
     S.input(name, marks);
     S.display();
 }
+// coded by MHQA
