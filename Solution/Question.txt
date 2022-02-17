@@ -1,0 +1,2 @@
+Design a class Student which takes student name and marks from the user and displays it on screen. Develop two functions within the class.
+ One function to get input from user & second to display on screen. Create an object of class in main() and call both functions.
